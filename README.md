@@ -35,6 +35,6 @@ pip install -r requirements.txt
 ```
 
 
-
+Project by Nick Troccoli, Brahm Capoor and Michael Troute.
 
 
